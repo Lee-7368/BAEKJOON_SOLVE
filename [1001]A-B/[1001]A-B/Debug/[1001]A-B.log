@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\ALIen\source\repos\C_C++\C\백준\[1001]A-B\[1001]A-B\main.c(7,12): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  [1001]A-B.vcxproj -> C:\Users\ALIen\source\repos\C_C++\C\백준\[1001]A-B\Debug\[1001]A-B.exe
